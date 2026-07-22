@@ -20,7 +20,7 @@
 <br/><br/>
 
 <img
-  src="./assets/codinggit.gif"
+  src="./assets/codinggif.gif"
   width="500"
   alt="Developer coding animation"
 />
