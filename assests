@@ -1,1 +1,25 @@
 
+<svg width="620" height="80" viewBox="0 0 620 80"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    text {
+      font-family: "JetBrains Mono", "Courier New", monospace;
+      font-size: 36px;
+      font-weight: 700;
+      fill: #58A6FF;
+    }
+  </style>
+
+  <text x="50%" y="52" text-anchor="middle">
+    Mahamudul Hasan<tspan>
+      _<animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+  </text>
+
+</svg>
