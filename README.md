@@ -4,30 +4,22 @@
 
 <h1>Mahamudul Hasan</h1>
 
-<p>
-  <strong>Software Developer · Web Developer · Creative Technologist</strong>
-</p>
+<p><em>Building software, web experiences, and future-ready skills.</em></p>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Building+practical+software+and+web+experiences.;Exploring+game+development+and+interactive+systems.;Learning+cybersecurity+and+secure+software+development.;Turning+ideas+into+things+that+work."
-    alt="Profile introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Turning+ideas+into+working+software.;Building+web+projects+with+code+and+curiosity.;Exploring+game+development+and+interactive+systems.;Learning+cybersecurity+and+secure+development."
+    alt="Typing introduction"
   />
 </a>
 
 <br/><br/>
 
 <img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0YmtwZ2g2MWFuNXkxZ2sxcDdtY3podGkydzRpNDV5ZGY1N2RjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
-  width="520"
-  alt="Developer workspace animation"
+  src="YOUR_GIF_LINK"
+  width="460"
+  alt="Coder animation"
 />
-
-<br/><br/>
-
-<sub>
-Bangladesh 🇧🇩 &nbsp;·&nbsp; Building, learning, and improving one project at a time.
-</sub>
 
 </div>
 
