@@ -128,43 +128,59 @@ My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**,
 
 ## Featured Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/mahamudul-hasan7/smart_city">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=smart_city&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
-    alt="Smart City Complaint Management System"
-  />
-</a>
+### 🏙️ Smart City
 
-<a href="https://github.com/mahamudul-hasan7/portfolio">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=portfolio&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
-    alt="Portfolio"
-  />
-</a>
+A civic-tech complaint management platform focused on reporting and managing city issues.
 
-<br/>
+**Stack:** HTML · CSS · JavaScript · PHP
 
-<a href="https://github.com/mahamudul-hasan7/library">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=library&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
-    alt="Library Platform"
-  />
-</a>
+[View Repository →](https://github.com/mahamudul-hasan7/smart_city)
 
-<a href="https://github.com/mahamudul-hasan7/prankwithfriends">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=prankwithfriends&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
-    alt="PulseDesk"
-  />
-</a>
+</td>
 
-</div>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+My personal portfolio and frontend experimentation space.
+
+**Stack:** HTML · CSS · JavaScript · Next.js
+
+[View Repository →](https://github.com/mahamudul-hasan7/portfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Platform
+
+A web-based library experience with reading, collection and user-focused features.
+
+**Focus:** Web Application · UI · User Experience
+
+[View Repository →](https://github.com/mahamudul-hasan7/library)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎭 PulseDesk
+
+An interactive browser-based experimental project built around playful web experiences.
+
+**Focus:** JavaScript · Interaction · Creative Web
+
+[View Repository →](https://github.com/mahamudul-hasan7/prankwithfriends)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🏙️ Smart City Complaint Management System
