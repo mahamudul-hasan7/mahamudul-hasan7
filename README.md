@@ -183,46 +183,6 @@ An interactive browser-based experimental project built around playful web exper
 </table>
 ---
 
-## 🏙️ Smart City Complaint Management System
-
-A civic-tech project designed around managing and organizing city complaints through a digital platform.
-
-**Tech:** HTML • CSS • JavaScript • PHP • Database
-
-🔗 [View Repository](https://github.com/mahamudul-hasan7/smart_city)
-🌐 [Live Project](https://smart-city-mahamud.vercel.app)
-
----
-
-## 🌐 Portfolio
-
-My personal portfolio project focused on presenting projects, experiences and creative web design.
-
-The repository also includes experimentation with modern technologies such as **Next.js, Tailwind CSS and Framer Motion**.
-
-🔗 [View Repository](https://github.com/mahamudul-hasan7/portfolio)
-🌐 [Visit Portfolio](https://portfolio-lake-xi-92.vercel.app)
-
----
-
-## 📚 Library Platform
-
-A web-based library project containing features and modules around authentication, profiles, collections, exploration, reading and wishlists.
-
-🔗 [View Repository](https://github.com/mahamudul-hasan7/library)
-🌐 [Live Project](https://library-mahamud.vercel.app)
-
----
-
-## 🎭 PulseDesk
-
-A browser-based simulated prank experience built for fun and experimentation with interactive web interfaces.
-
-🔗 [View Repository](https://github.com/mahamudul-hasan7/prankwithfriends)
-🌐 [Live Project](https://giftsforyou-teal.vercel.app)
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
