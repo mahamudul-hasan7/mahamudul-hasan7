@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=const+focus+%3D+%22Software+Development%22%3B;build(%22Web+Applications%22)%3B;explore(%22Game+Development%22)%3B;learn(%22Cybersecurity+%26+Ethical+Hacking%22)%3B;while+(alive)+%7B+learn()%3B+build()%3B+improve()%3B+%7D"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=const+focus+%3D+%22Software+Development%22%3B;build(%22Web+Applications%22)%3B;explore(%22Game+Development%22)%3B;learn(%22Cybersecurity+%26+Ethical+Hacking%22)%3B;while+(alive)+%7B+learn()%3B+build()%3B+improve()%3B+%7D"
     alt="Developer typing animation"
   />
 </a>
