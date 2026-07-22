@@ -21,7 +21,7 @@
 
 <img
   src="./assets/codinggif.gif"
-  width="500"
+  width="320"
   alt="Developer coding animation"
 />
 
