@@ -213,18 +213,26 @@ An interactive browser-based experimental project built around playful web exper
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/mahamudul-hasan7/mahamudul-hasan7/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </picture>
 
 </div>
-
 ---
 
 ## 🧠 Developer Philosophy
