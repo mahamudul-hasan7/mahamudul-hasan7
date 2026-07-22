@@ -126,28 +126,45 @@ My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**,
 
 ---
 
-# 🔥 Featured Projects
+## Featured Work
 
 <div align="center">
 
 <a href="https://github.com/mahamudul-hasan7/smart_city">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=smart_city&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=smart_city&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
+    alt="Smart City Complaint Management System"
+  />
 </a>
 
 <a href="https://github.com/mahamudul-hasan7/portfolio">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=portfolio&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=portfolio&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
+    alt="Portfolio"
+  />
 </a>
 
+<br/>
+
 <a href="https://github.com/mahamudul-hasan7/library">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=library&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=library&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
+    alt="Library Platform"
+  />
 </a>
 
 <a href="https://github.com/mahamudul-hasan7/prankwithfriends">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=prankwithfriends&theme=transparent&hide_border=true" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahamudul-hasan7&repo=prankwithfriends&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"
+    alt="PulseDesk"
+  />
 </a>
 
 </div>
-
 ---
 
 ## 🏙️ Smart City Complaint Management System
