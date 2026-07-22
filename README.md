@@ -12,8 +12,8 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=1700&pause=750&color=8B949E&center=true&vCenter=true&width=900&height=45&lines=Building+Web+%26+Software+Solutions;Focused+on+Practical+Software+Development;Exploring+Game+Development+%26+Interactive+Systems;Learning+Cybersecurity+%26+Secure+Development;Turning+Ideas+Into+Working+Products"
-    alt="Development focus"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1400&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=50&repeat=true&lines=const+focus+%3D+%5B%22Software%22%2C+%22Web%22%5D%3B;build%28%22Real-World+Projects%22%29%3B;explore%28%22Game+Development%22%29%3B;learn%28%22Cybersecurity+%26+Secure+Development%22%29%3B;while+%28curious%29+%7B+learn%28%29%3B+build%28%29%3B+improve%28%29%3B+%7D"
+    alt="Mahamudul Hasan development focus"
   />
 </a>
 
