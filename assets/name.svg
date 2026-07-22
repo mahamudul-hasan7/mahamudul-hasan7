@@ -5,7 +5,7 @@
     text {
       font-family: "JetBrains Mono", "Courier New", monospace;
       font-size: 36px;
-      font-weight: 700;
+      font-weight: 500;
       fill: #58A6FF;
     }
   </style>
