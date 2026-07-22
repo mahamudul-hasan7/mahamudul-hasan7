@@ -1,13 +1,22 @@
-<!-- ===== Developer Intro ===== -->
+<!-- ===== Professional Developer Intro ===== -->
 
 <div align="center">
 
-<h1>_Mahamudul Hasan</h1>
-
+<!-- Animated Name -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1400&pause=550&color=58A6FF&center=true&vCenter=true&width=900&height=50&repeat=true&lines=%24+whoami+%E2%86%92+Mahamudul+Hasan;const+focus+%3D+%22Software+Development%22%3B;build%28%22Web+Applications%22%29%3B;explore%28%22Game+Development%22%29%3B;learn%28%22Cybersecurity+%26+Ethical+Hacking%22%29%3B;while+%28curious%29+%7B+learn%28%29%3B+build%28%29%3B+improve%28%29%3B+%7D"
-    alt="Mahamudul Hasan developer typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1100&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&height=70&repeat=true&lines=Mahamudul+Hasan_"
+    alt="Mahamudul Hasan"
+  />
+</a>
+
+<br/>
+
+<!-- Professional Focus Animation -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=1800&pause=900&color=8B949E&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Building+Web+%26+Software+Projects;Focused+on+Practical+Software+Development;Exploring+Game+Development+%26+Interactive+Systems;Learning+Cybersecurity+%26+Secure+Development;Growing+through+Projects%2C+Code+%26+Continuous+Learning"
+    alt="Development focus"
   />
 </a>
 
@@ -21,7 +30,7 @@
 
 </div>
 
-<!-- ===== End Profile Intro ===== -->
+<!-- ===== End Intro ===== -->
 
 <br/>
 
