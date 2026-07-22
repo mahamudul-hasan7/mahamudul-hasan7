@@ -2,20 +2,17 @@
 
 <div align="center">
 
-<!-- Animated Name -->
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1100&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&height=70&repeat=true&lines=Mahamudul+Hasan_"
-    alt="Mahamudul Hasan"
-  />
-</a>
+<img
+  src="./assets/name.svg"
+  width="620"
+  alt="Mahamudul Hasan"
+/>
 
 <br/>
 
-<!-- Professional Focus Animation -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=1800&pause=900&color=8B949E&center=true&vCenter=true&width=900&height=45&repeat=true&lines=Building+Web+%26+Software+Projects;Focused+on+Practical+Software+Development;Exploring+Game+Development+%26+Interactive+Systems;Learning+Cybersecurity+%26+Secure+Development;Growing+through+Projects%2C+Code+%26+Continuous+Learning"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=1700&pause=750&color=8B949E&center=true&vCenter=true&width=900&height=45&lines=Building+Web+%26+Software+Solutions;Focused+on+Practical+Software+Development;Exploring+Game+Development+%26+Interactive+Systems;Learning+Cybersecurity+%26+Secure+Development;Turning+Ideas+Into+Working+Products"
     alt="Development focus"
   />
 </a>
