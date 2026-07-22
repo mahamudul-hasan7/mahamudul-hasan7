@@ -16,7 +16,7 @@
 <br/><br/>
 
 <img
-  src="YOUR_GIF_LINK"
+  src="YOUR_CODER_GIF_LINK_HERE"
   width="460"
   alt="Coder animation"
 />
