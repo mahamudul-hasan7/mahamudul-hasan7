@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<h1>>_Mahamudul Hasan</h1>
+<h1>_Mahamudul Hasan</h1>
 
 <a href="https://git.io/typing-svg">
   <img
-    <a href="https://git.io/typing-svg">
-  <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1600&pause=600&color=58A6FF&center=true&vCenter=true&width=900&height=55&repeat=true&lines=const+focus+%3D+%22Software+Development%22%3B;build%28%22Web+Applications%22%29%3B;explore%28%22Game+Development%22%29%3B;learn%28%22Cybersecurity+%26+Ethical+Hacking%22%29%3B;while+%28alive%29+%7B+learn%28%29%3B+build%28%29%3B+improve%28%29%3B+%7D"
+    alt="Mahamudul Hasan developer animation"
+  />
+</a>
     alt="Mahamudul Hasan developer animation"
   />
 </a>
