@@ -1,20 +1,17 @@
-<!-- ===== Animated Intro ===== -->
+<!-- ===== Profile Intro ===== -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I%27m+Mahamudul+Hasan+%F0%9F%91%8B"
-    alt="Mahamudul Hasan"
-  />
-</a>
+<h1>Hi 👋, I'm Mahamudul Hasan</h1>
 
-<br/>
+<h3>
+  Software Developer • Creative Builder • Tech Explorer
+</h3>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1000&color=8B949E&center=true&vCenter=true&width=900&height=55&lines=Building+Software+That+Solves+Real+Problems;Web+Developer+%26+Creative+Builder;Exploring+Game+Development+%F0%9F%8E%AE;Learning+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Designing+Better+Digital+Experiences;Always+Learning.+Always+Building."
-    alt="Developer interests and goals"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Building+Software+That+Solves+Real+Problems;Exploring+Game+Development+%F0%9F%8E%AE;Learning+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Designing+Better+Digital+Experiences;Always+Learning.+Always+Building."
+    alt="Animated developer bio"
   />
 </a>
 
@@ -23,18 +20,16 @@
 <img
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0YmtwZ2g2MWFuNXkxZ2sxcDdtY3podGkydzRpNDV5ZGY1N2RjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
   width="500"
-  alt="Mahamudul Hasan developer animation"
+  alt="Developer animation"
 />
 
 <br/><br/>
 
-<sub>
-  <b>Code • Design • Secure • Create</b>
-</sub>
+<b>Code • Design • Secure • Create</b>
 
 </div>
 
-<!-- ===== End Animated Intro ===== -->
+<!-- ===== End Profile Intro ===== -->
 
 <br/>
 
