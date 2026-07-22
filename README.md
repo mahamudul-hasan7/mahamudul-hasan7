@@ -20,7 +20,7 @@
 <br/><br/>
 
 <img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0YmtwZ2g2MWFuNXkxZ2sxcDdtY3podGkydzRpNDV5ZGY1N2RjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
+  src="./assets/codinggit.gif"
   width="500"
   alt="Developer coding animation"
 />
