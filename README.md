@@ -1,29 +1,27 @@
-<!-- ===== Profile Hero ===== -->
+<!-- ===== Profile Intro ===== -->
 
 <div align="center">
 
 <h1>Mahamudul Hasan</h1>
 
-<p><em>Building software, web experiences, and future-ready skills.</em></p>
-
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Turning+ideas+into+working+software.;Building+web+projects+with+code+and+curiosity.;Exploring+game+development+and+interactive+systems.;Learning+cybersecurity+and+secure+development."
-    alt="Typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=const+focus+%3D+%22Software+Development%22%3B;build(%22Web+Applications%22)%3B;explore(%22Game+Development%22)%3B;learn(%22Cybersecurity+%26+Ethical+Hacking%22)%3B;while+(alive)+%7B+learn()%3B+build()%3B+improve()%3B+%7D"
+    alt="Developer typing animation"
   />
 </a>
 
 <br/><br/>
 
 <img
-  src="YOUR_CODER_GIF_LINK_HERE"
-  width="460"
-  alt="Coder animation"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0YmtwZ2g2MWFuNXkxZ2sxcDdtY3podGkydzRpNDV5ZGY1N2RjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
+  width="500"
+  alt="Developer coding animation"
 />
 
 </div>
 
-<!-- ===== End Profile Hero ===== -->
+<!-- ===== End Profile Intro ===== -->
 
 <br/>
 
