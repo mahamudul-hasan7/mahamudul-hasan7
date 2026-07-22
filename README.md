@@ -183,36 +183,6 @@ An interactive browser-based experimental project built around playful web exper
 </table>
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahamudul-hasan7&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-hasan7&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahamudul-hasan7&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Mahamudul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahamudul-hasan7\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/mahamudul-hasan7)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
