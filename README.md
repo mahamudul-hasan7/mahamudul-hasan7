@@ -1,17 +1,17 @@
-<!-- ===== Profile Intro ===== -->
+<!-- ===== Profile Hero ===== -->
 
 <div align="center">
 
-<h1>Hi 👋, I'm Mahamudul Hasan</h1>
+<h1>Mahamudul Hasan</h1>
 
-<h3>
-  Software Developer • Creative Builder • Tech Explorer
-</h3>
+<p>
+  <strong>Software Developer · Web Developer · Creative Technologist</strong>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Building+Software+That+Solves+Real+Problems;Exploring+Game+Development+%F0%9F%8E%AE;Learning+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Designing+Better+Digital+Experiences;Always+Learning.+Always+Building."
-    alt="Animated developer bio"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Building+practical+software+and+web+experiences.;Exploring+game+development+and+interactive+systems.;Learning+cybersecurity+and+secure+software+development.;Turning+ideas+into+things+that+work."
+    alt="Profile introduction"
   />
 </a>
 
@@ -19,17 +19,19 @@
 
 <img
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0YmtwZ2g2MWFuNXkxZ2sxcDdtY3podGkydzRpNDV5ZGY1N2RjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"
-  width="500"
-  alt="Developer animation"
+  width="520"
+  alt="Developer workspace animation"
 />
 
 <br/><br/>
 
-<b>Code • Design • Secure • Create</b>
+<sub>
+Bangladesh 🇧🇩 &nbsp;·&nbsp; Building, learning, and improving one project at a time.
+</sub>
 
 </div>
 
-<!-- ===== End Profile Intro ===== -->
+<!-- ===== End Profile Hero ===== -->
 
 <br/>
 
