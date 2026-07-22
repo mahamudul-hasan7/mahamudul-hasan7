@@ -1,4 +1,4 @@
-<svg width="520" height="50" viewBox="0 0 520 55"
+<svg width="620" height="48" viewBox="0 0 620 48"
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -10,7 +10,7 @@
     }
   </style>
 
-  <text x="50%" y="52" text-anchor="middle">
+  <text x="50%" y="36" text-anchor="middle">
     Mahamudul Hasan<tspan>
       _<animate
         attributeName="opacity"
