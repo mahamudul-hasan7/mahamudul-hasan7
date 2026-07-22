@@ -4,7 +4,7 @@
 
 <img
   src="./assets/name.svg"
-  width="620"
+  width="520"
   alt="Mahamudul Hasan"
 />
 
