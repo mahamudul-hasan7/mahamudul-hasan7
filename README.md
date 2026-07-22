@@ -4,8 +4,8 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I%27m+Mahamudul+Hasan!"
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I%27m+Mahamudul+Hasan+%F0%9F%91%8B"
+    alt="Mahamudul Hasan"
   />
 </a>
 
@@ -13,8 +13,8 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=FFB90F&center=true&vCenter=true&width=750&height=55&lines=Software+Developer+in+the+Making;Web+Developer+%26+Creative+Builder;Future+Game+Developer+%F0%9F%8E%AE;Exploring+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Always+Learning+%E2%80%A2+Always+Building"
-    alt="Animated roles"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1000&color=8B949E&center=true&vCenter=true&width=900&height=55&lines=Building+Software+That+Solves+Real+Problems;Web+Developer+%26+Creative+Builder;Exploring+Game+Development+%F0%9F%8E%AE;Learning+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Designing+Better+Digital+Experiences;Always+Learning.+Always+Building."
+    alt="Developer interests and goals"
   />
 </a>
 
@@ -25,6 +25,12 @@
   width="500"
   alt="Mahamudul Hasan developer animation"
 />
+
+<br/><br/>
+
+<sub>
+  <b>Code • Design • Secure • Create</b>
+</sub>
 
 </div>
 
