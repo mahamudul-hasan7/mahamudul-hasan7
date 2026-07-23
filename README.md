@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/GitHub-My_Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-View_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="mahamud.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-View-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
