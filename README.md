@@ -32,12 +32,15 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mahamudul--hasan7-181717?style=for-the-badge\&logo=github)](https://github.com/mahamudul-hasan7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel)](https://portfolio-lake-xi-92.vercel.app)
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/mahamudul-hasan7">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-View_Project-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 
