@@ -149,7 +149,7 @@ A civic-tech complaint management platform focused on reporting and managing cit
 
 My personal portfolio and frontend experimentation space.
 
-**Stack:** HTML · CSS · JavaScript · Next.js
+**Stack:** HTML · CSS · JavaScript 
 
 [View Repository →](https://github.com/mahamudul-hasan7/portfolio)
 
