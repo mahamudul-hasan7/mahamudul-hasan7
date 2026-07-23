@@ -163,7 +163,7 @@ My personal portfolio and frontend experimentation space.
 
 A web-based library experience with reading, collection and user-focused features.
 
-**Focus:** Web Application · UI · User Experience
+**Stack:**  HTML · CSS · JavaScript · PHP · MySQL
 
 [View Repository →](https://github.com/mahamudul-hasan7/library)
 
