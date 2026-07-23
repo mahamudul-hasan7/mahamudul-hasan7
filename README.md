@@ -171,13 +171,13 @@ A web-based library experience with reading, collection and user-focused feature
 
 <td width="50%" valign="top">
 
-### 🎭 PulseDesk
+### PrankLab
 
-An interactive browser-based experimental project built around playful web experiences.
+A collection of interactive browser-based prank experiences built with HTML, CSS and JavaScript.
 
-**Focus:** JavaScript · Interaction · Creative Web
+Stack: HTML · CSS · JavaScript
 
-[View Repository →](https://github.com/mahamudul-hasan7/prankwithfriends)
+[View Repository →](https://github.com/mahamudul-hasan7/PrankLab)
 
 </td>
 </tr>
