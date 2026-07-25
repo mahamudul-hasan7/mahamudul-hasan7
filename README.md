@@ -128,64 +128,6 @@ My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**,
 
 > These are technologies and areas I'm actively interested in learning and growing into — not a claim of mastery.
 
----
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏙️ Smart City
-
-A civic-tech complaint management platform focused on reporting and managing city issues.
-
-**Stack:** HTML · CSS · JavaScript · PHP
-
-[View Repository →](https://github.com/mahamudul-hasan7/smart_city)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-My personal portfolio and frontend experimentation space.
-
-**Stack:** HTML · CSS · JavaScript 
-
-[View Repository →](https://github.com/mahamudul-hasan7/portfolio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Library Platform
-
-A web-based library experience with reading, collection and user-focused features.
-
-**Stack:**  HTML · CSS · JavaScript · PHP · MySQL
-
-[View Repository →](https://github.com/mahamudul-hasan7/library)
-
-</td>
-
-<td width="50%" valign="top">
-
-### PrankLab
-
-A collection of interactive browser-based prank experiences built with HTML, CSS and JavaScript.
-
-Stack: HTML · CSS · JavaScript
-
-[View Repository →](https://github.com/mahamudul-hasan7/PrankLab)
-
-</td>
-</tr>
-</table>
----
 
 ## 🐍 Contribution Snake
 
