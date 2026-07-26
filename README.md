@@ -149,47 +149,7 @@ My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**,
 </picture>
 
 </div>
----
 
-## 🧠 Developer Philosophy
-
-```text
-> Learn the fundamentals.
-> Build things that actually work.
-> Understand how systems communicate.
-> Learn how systems fail.
-> Learn how to secure them.
-> Create experiences people remember.
-> Never stop improving.
-```
-
----
-
-## 🌱 The Journey Ahead
-
-```text
-Software Engineering
-       │
-       ├── Web Development
-       │
-       ├── Backend & Systems
-       │
-       ├── Cybersecurity
-       │      └── Ethical Hacking
-       │
-       ├── Game Development
-       │      ├── Game Programming
-       │      └── Game Design
-       │
-       └── Creative Technology
-              └── UI / UX / Interactive Experiences
-```
-
-I'm still building my journey — one project, one bug, one lesson and one commit at a time.
-
----
-
-<div align="center">
 
 ### 💬 Build • Learn • Experiment • Improve
 
