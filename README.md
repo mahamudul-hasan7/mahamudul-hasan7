@@ -150,7 +150,8 @@ My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**,
 
 </div>
 
-
+<div align="center">
+  
 ### 💬 Build • Learn • Experiment • Improve
 
 **Thanks for visiting my profile!**
