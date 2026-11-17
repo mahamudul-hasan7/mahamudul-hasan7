@@ -82,52 +82,6 @@ My journey is not limited to one field. I want to understand **how software is b
 | Building useful applications | Modern interactive experiences | Learning cybersecurity fundamentals |   Exploring game development   | Creating better user experiences |
 |        Problem solving       |       Frontend + Backend       |       Ethical hacking mindset       | Gameplay & interactive systems |        UI / visual design        |
 
----
-
-## ⚡ Tech Stack
-
-### Technologies I've Worked With
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nextjs,tailwind,git,github,vscode,vercel\&perline=10)](https://skillicons.dev)
-
-</div>
-
-My current projects involve technologies such as **HTML, CSS, JavaScript, PHP**, along with experience exploring **Next.js, Tailwind CSS and modern frontend development**.
-
----
-
-## 🚀 My Learning Roadmap
-
-<div align="center">
-
-### 🛡️ Cybersecurity & Ethical Hacking
-
-[![Security](https://skillicons.dev/icons?i=python,linux,kali,bash)](https://skillicons.dev)
-
-**Networking • Linux • Python • Web Security • Ethical Hacking • Secure Development**
-
-<br/>
-
-### 🎮 Game Development
-
-[![Game Development](https://skillicons.dev/icons?i=cs,unity,unreal,godot)](https://skillicons.dev)
-
-**Game Logic • C# • Unity • Godot • Unreal Engine • Interactive Systems**
-
-<br/>
-
-### 🎨 Creative Design
-
-[![Design](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
-
-**UI/UX • Game Design • 3D Exploration • Visual Experiences**
-
-</div>
-
-> These are technologies and areas I'm actively interested in learning and growing into — not a claim of mastery.
-
 
 ## 🐍 Contribution Snake
 
